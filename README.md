@@ -12,10 +12,10 @@ Araştırmanın amacı: Sesin doğada bulunan maddelerle fiziksel yönden etkile
 
 Kaynakça:
 
-1.Deney:http://dev.nsta.org/evwebs/715n/sound-experiment-.html
-2.Wikipedia(titreşim):https://en.wikipedia.org/wiki/Vibration
-3.Wikipedia(ses):https://en.wikipedia.org/wiki/Sound
-4.wikipedia(rezonans):https://en.wikipedia.org/wiki/Resonance
+* Deney:http://dev.nsta.org/evwebs/715n/sound-experiment-.html
+* Wikipedia(titreşim):https://en.wikipedia.org/wiki/Vibration
+* Wikipedia(ses):https://en.wikipedia.org/wiki/Sound
+* wikipedia(rezonans):https://en.wikipedia.org/wiki/Resonance
 
 # Materyal ve Yöntem (Experimental Setup)
 
@@ -44,9 +44,9 @@ Normal oda koşulları:
 
 # 5.Deneyin Hazırlanışı
 
-  1.Boş kase streç film ile kapatılır.
-  2.streç film üzerine istenilen miktarda(bu deneyde 1 tatlı kaşığı kullanılmıştır) pilav tanesi konulur.
-  3.ses kaynağından(bu deneyde telefon kullanılmıştır) farklı frekansta sesler verilir.
+ * Boş kase streç film ile kapatılır.
+ * streç film üzerine istenilen miktarda(bu deneyde 1 tatlı kaşığı kullanılmıştır) pilav tanesi konulur.
+ * ses kaynağından(bu deneyde telefon kullanılmıştır) farklı frekansta sesler verilir.
 
 # 6.Süre
 
@@ -54,8 +54,8 @@ Normal oda koşulları:
 
 # Bulgular (Results)
 
-1.Sesin DB yüksekliği prinçlerin titreşimiyle doğru orantılıdır.
-2.Frekans değiştikçe pirinçlerin titreşiminde değişiklik meydana gelir.
+* Sesin DB yüksekliği prinçlerin titreşimiyle doğru orantılıdır.
+* Frekans değiştikçe pirinçlerin titreşiminde değişiklik meydana gelir.
 
 # Sonuç (Conclusion) 
 
