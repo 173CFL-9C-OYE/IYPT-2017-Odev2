@@ -24,7 +24,7 @@ Kaynakça:
 * Bir miktar streç film
 * Bir adet kase
 * Bir tatlı kaşığı pilav(pişirilmemiş)
-* Ses kaynağı(Telefon)
+* Ses kaynağı(fırın tepsisi)
 
 # 2.Deneyin Amacı
 
@@ -46,7 +46,7 @@ Normal oda koşulları:
 
  * Boş kase streç film ile kapatılır.
  * streç film üzerine istenilen miktarda(bu deneyde 1 tatlı kaşığı kullanılmıştır) pilav tanesi konulur.
- * ses kaynağından(bu deneyde telefon kullanılmıştır) farklı frekansta sesler verilir.
+ * ses kaynağından(bu deneyde fırın tepsisi kullanılmıştır) yüksek DB ses.
 
 # 6.Süre
 
@@ -55,7 +55,6 @@ Normal oda koşulları:
 # Bulgular (Results)
 
 * Sesin DB yüksekliği prinçlerin titreşimiyle doğru orantılıdır.
-* Frekans değiştikçe pirinçlerin titreşiminde değişiklik meydana gelir.
 
 # Sonuç (Conclusion) 
 
